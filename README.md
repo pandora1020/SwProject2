@@ -1,2 +1,3 @@
-Software Engineering Project2
-Personal Code : 82419
+Software Engineering Project2  
+C035298 이승민  
+Personal Code : 82419  
